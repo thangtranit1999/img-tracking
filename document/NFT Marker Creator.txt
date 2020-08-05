@@ -1,0 +1,6 @@
+https://ar-js-org.github.io/AR.js-Docs/image-tracking/
+sử dụng file app.js
+	- Đó là file app.js của nguoi ta sua mot chut cho nó chạy theo ý mình
+	- Đoạn vừa commit là để truyeenf vào đường pash đến hình ảnh qua cmd
+	- Truyền trực tiếp trong code. Xem nó ra casoi gì
+	- Quên chưa cài thư viện. OK ra đường dẫn đã có 3 file img tracking
